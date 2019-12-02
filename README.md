@@ -1,2 +1,3 @@
 # testRep
-Saat 3.32 de güncellendi
+Saat 3.32 de gï¿½ncellendi
+saat 3.42 de gÃ¼ncellendi 
