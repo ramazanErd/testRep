@@ -3,8 +3,6 @@
 
 int main()
 {
-  
-
         int toplam=0;
         int i,j;
         int matris[3][5] ;
@@ -23,7 +21,6 @@ int main()
         {
             for (j = 0;j < 5; j++)
             {
-            
                 printf("-%d-",matris[i][j]);
             }
         printf("\n"); 
@@ -42,11 +39,6 @@ for (j = 0; j < 5; j++)
     toplam=0;                                   ///   HER STUNU AYRI AYRI TOPLAYACAGIMIZ İÇİN TOPLAM DEGİSKENİNİ 0 LIYORUZ   ///
 }
 
-
-
- 
- 
-    
     getch();
     return 0;
 
